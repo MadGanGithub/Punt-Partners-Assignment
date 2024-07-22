@@ -1,5 +1,6 @@
 import axios from "axios";
 import React, { useEffect } from "react";
+import Audio from "../components/audio.js";
 
 const Home = () => {
     useEffect(() => {
@@ -17,7 +18,7 @@ const Home = () => {
       
   return (
     <div>
-        testing
+        <Audio/>
     </div>
   );
 };
