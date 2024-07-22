@@ -18,6 +18,9 @@ https://punt-frontend-puce.vercel.app/
 Backend of the application has been deployed using Docker image
 https://punt-backend.vercel.app/
 
+#Video:
+Complete walkthrough of the web app is given in this video
+
 ## Screenshots
 
 ![Audio upload page](screenshots/one.jpg)
