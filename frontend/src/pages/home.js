@@ -6,7 +6,7 @@ const Home = () => {
     useEffect(() => {
         async function func() {
           await axios
-            .get("https://punt-backend.vercel.app/", {
+            .get("https://punt-backend.vercel.app", {
               withCredentials: true,
             })
             .then((response) => {

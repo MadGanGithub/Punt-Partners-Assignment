@@ -39,7 +39,7 @@ const Audio = () => {
       const res = await axios.post(
         "https://punt-backend.vercel.app/deepgram",
         { name: response.data.name ,key:key},
-        {
+        { withCredentials:true,
           headers: {
             "Content-Type": "application/json",
           },

@@ -16,9 +16,7 @@ https://punt-frontend-puce.vercel.app/
 #Backend:
 
 Backend of the application has been deployed using Docker image
-https://punt-frontend-puce.vercel.app/
-
-
+https://punt-backend.vercel.app/
 
 ## Screenshots
 
